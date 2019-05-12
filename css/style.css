@@ -1,0 +1,93 @@
+.center {
+  margin: auto;
+  width: 50%;
+}
+h1 {
+  color: black;
+  font-size: 8vw;
+  font-family: 'Spectral', serif;
+  letter-spacing: -3px;
+  line-height: 1.2;
+  font-weight: 200;
+  margin-top: 50px;
+}
+h2 {
+  color: black;
+  font-size: 2vw;
+  font-family: 'Crimson Text', serif;
+  font-weight: 200;
+  line-height: 1.8;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+h3 {
+  color: black;
+  font-size: 9pt;
+  font-family: 'Helvetica', sans-serif;
+  padding-bottom: 10px;
+}
+h4 {
+  color: #E34B4B;
+  font-size: 2vw;
+  font-family: 'Helvetica', sans-serif;
+  line-height: 0.5;
+}
+p {
+  color: black;
+  font-size: 13pt;
+  font-family: 'Crimson Text', serif;
+  text-align: left;
+  line-height: 1.4;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+.sidenoteLeft {
+  width: 125px;
+  color: grey;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 9pt;
+  float: left;
+  margin-left: -250px;
+}
+.sidenoteRight {
+  width: 125px;
+  color: grey;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 9pt;
+  float: right;
+  margin-right: -250px;
+}
+hr {
+  display: block;
+  border: 0;
+  border-top: 1px solid #E34B4B;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+span {
+  color: lightgrey;
+}
+a:link {
+  color: #E34B4B;
+  text-decoration: none;
+  }
+a:visited {
+  color: #E34B4B;
+}
+a:hover {
+  font-style: underline;
+}
+a:active {
+  font-style: underline;
+}
+.blackStroke {
+  background-color: white;
+  outline: 2px solid black;
+  outline-offset: -2px;
+}
+.blackText {
+  color: black;
+}
