@@ -2,6 +2,11 @@
   margin: auto;
   width: 50%;
 }
+img {
+  width: 90%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 h1 {
   color: black;
   font-size: 8vw;
