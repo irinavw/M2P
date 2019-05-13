@@ -16,7 +16,7 @@ h2 {
   font-size: 2vw;
   font-family: 'Crimson Text', serif;
   font-weight: 200;
-  line-height: 1.8;
+  line-height: 1.6;
   padding-top: 0px;
   padding-bottom: 0px;
 }
@@ -37,7 +37,7 @@ p {
   font-size: 13pt;
   font-family: 'Crimson Text', serif;
   text-align: left;
-  line-height: 1.4;
+  line-height: 1.8;
   padding-left: 25%;
   padding-right: 25%;
 }
@@ -46,6 +46,7 @@ p {
   color: grey;
   font-family: 'Helvetica', sans-serif;
   font-size: 9pt;
+  line-height: 1.4;
   float: left;
   margin-left: -250px;
 }
@@ -54,6 +55,7 @@ p {
   color: grey;
   font-family: 'Helvetica', sans-serif;
   font-size: 9pt;
+  line-height: 1.4;
   float: right;
   margin-right: -250px;
 }
@@ -82,12 +84,4 @@ a:hover {
 }
 a:active {
   font-style: underline;
-}
-.blackStroke {
-  background-color: white;
-  outline: 2px solid black;
-  outline-offset: -2px;
-}
-.blackText {
-  color: black;
 }
